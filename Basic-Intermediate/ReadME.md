@@ -1,0 +1,30 @@
+My SQL codes: LEVEL Basic and Intermadiate including below syllabus;
+
+SELECT
+INSERT
+DELETE
+UPDATE
+
+CREATE TABLE
+DELETE TABLE
+TRUNCATE TABLE
+DROP
+
+Logical Operators
+
+Working with Strings
+
+GROUP BY
+ORDER BY
+
+Conditions
+CASE
+
+IFNULL/ COALESCE
+
+AGGREATE FUNCTIONS
+HAVING
+
+JOINS (ALL KIND OF)
+
+UNION/ UNION ALL
