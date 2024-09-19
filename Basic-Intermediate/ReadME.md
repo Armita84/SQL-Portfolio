@@ -1,4 +1,4 @@
-My SQL codes: LEVEL Basic and Intermadiate including below syllabus;
+MySQL codes: LEVEL Basic and Intermadiate including below syllabus;
 
 SELECT
 INSERT
